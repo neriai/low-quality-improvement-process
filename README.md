@@ -8,3 +8,7 @@
 ## ロジック・ツリー
 
 ![logic-tree.png](https://raw.githubusercontent.com/neriai/low-quality-improvement-process/master/logic-tree.png)
+
+## その他
+
+- [XMind](http://jp.xmind.net/)を使って作成しました。
